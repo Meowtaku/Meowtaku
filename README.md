@@ -5,7 +5,6 @@
 ⚡ Fun Fact: The longest common English word without traditional vowels (a, e, i, o, u) is `"rhythms"`<br/>
 
 
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshad-patekar-b93ab4282/)
