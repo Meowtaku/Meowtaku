@@ -1,10 +1,10 @@
-# 💫 About Me
+# 😸About Me
 
-🌱 I’m currently learning **Python**
-💬 Ask me about **Football**
-⚡ Fun Fact: The longest common English word without traditional vowels (a, e, i, o, u) is `"rhythms"`
+🌱 I’m currently learning **Python**<br/>
+💬 Ask me about **Football**<br/>
+⚡ Fun Fact: The longest common English word without traditional vowels (a, e, i, o, u) is `"rhythms"`<br/>
 
----
+
 
 ## 🌐 Connect with me
 
